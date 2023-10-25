@@ -22,4 +22,4 @@ trio-websocket==0.11.1
 update==0.0.1
 urllib3==2.0.6
 wsproto==1.2.0
-/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+
